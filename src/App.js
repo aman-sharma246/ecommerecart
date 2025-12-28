@@ -98,7 +98,7 @@ class App extends Component {
   render() {
     return (
       <div className="container">
-        <h1>E-Commerce Shopping Cart</h1>
+        <h1>E-Commerce Shopping Cart </h1>
         <hr />
         <div className="row">
           <div className="col-md-9">
